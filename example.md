@@ -2,10 +2,12 @@
 
 - age: show
 - mention: https://github.com/{@mention}
-
+- tags:
+  - jobs: #fff, #f60
+  
 ## Part 1
 
-- 2009 t1 **Bold**  `Mark`
+- 2009 t1 **Bold**  #Mark
 - 2011/09 t2
 - 2011/09~2003/06 t4
 - 2011/07~ t4
@@ -25,7 +27,7 @@
 - 2016-01-03~ t4
 
 ## Part 3
-- 2011~ w1
+- 2011~ w1 #jobs
 - 2011~2013 w2
 - 2013~2015 w3
 - 2015~2016 w4
