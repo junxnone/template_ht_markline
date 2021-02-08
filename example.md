@@ -8,8 +8,8 @@
 ## Time Point
 
 - 2011 year
-- 2011/09 month `format` *format* **format** _format_ __format__ ~format~ ~~format~~
-- 2011/09/09 date [link](https://junxnone.github.io/template_ht_markline/)
+- 2011/09 month 
+- 2011/09/09 date 
 
 ## Format
 - 2012 粗体 *format* **format** _format_ __format__ 
