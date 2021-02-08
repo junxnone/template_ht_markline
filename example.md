@@ -7,9 +7,12 @@
   - life: rgb(255,255,255), rgba(255,0,0,0.5)
 ## Time Point
 
-- 2011 year
-- 2011/09 month 
-- 2011/09/09 date 
+- 2007 year
+- 2008/09 month 
+- 2008/09/09 date 
+- 2009 ...
+- 2010 ....
+
 
 ## Format
 - 2012 粗体 *format* **format** _format_ __format__ 
@@ -30,8 +33,7 @@
   - 2017-04-20 date 
   - 2017-08~2018-08 month2month
   - 2019-03-04~2020-10-01 date2date
-- 2019 ...
-- 2020 ....
+
 
 
 ## Tags
