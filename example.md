@@ -8,8 +8,8 @@
 ## Part 1
 
 - 2009 year **Bold**  #Mark
-- 2011/09 month `format` *format* **format** _format_ __format__
-- 2011/09/09 date
+- 2011/09 month `format` *format* **format** _format_ __format__ ~format~ ~~format~~
+- 2011/09/09 date [link](https://junxnone.github.io/template_ht_markline/)
 - 2011/09~2003/06 t4 #life
 - 2011/07~ t4
   - 2011-11-11 t5 
