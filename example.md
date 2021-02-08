@@ -4,7 +4,7 @@
 - mention: https://github.com/{@mention}
 - tags:
   - jobs: #fff, #f60
-  - life: rgb(255,255,255),rgba(255,0,0,0.5)
+  - life: rgb(255,255,255), rgba(255,0,0,0.5)
 ## Part 1
 
 - 2009 t1 **Bold**  #Mark
