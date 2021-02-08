@@ -7,11 +7,9 @@
   - life: rgb(255,255,255), rgba(255,0,0,0.5)
 ## Time Point
 
-- 2007 year
-- 2008/09 month 
-- 2008/09/09 date 
-- 2009 ...
-- 2010 ....
+- 2011 year
+- 2012/09 month 
+- 2013/09/09 date 
 
 
 ## Format
