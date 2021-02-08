@@ -13,7 +13,7 @@
 
 ## Format
 - 2012 粗体 *format* **format** _format_ __format__ 
-- 2013 删除线 ~format~ ~~format~~ [link](https://junxnone.github.io/template_ht_markline/)
+- 2013 删除线 ~format~ ~~format~~ 
 - 2014 链接 [link](https://junxnone.github.io/template_ht_markline/)
 - 2015 Mask 无作用？ `format`
 
