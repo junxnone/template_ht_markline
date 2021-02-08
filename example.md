@@ -5,32 +5,37 @@
 - tags:
   - jobs: #fff, #f60
   - life: rgb(255,255,255), rgba(255,0,0,0.5)
-## Part 1
+## Time Point
 
-- 2009 year **Bold**  #Mark
+- 2011 year
 - 2011/09 month `format` *format* **format** _format_ __format__ ~format~ ~~format~~
 - 2011/09/09 date [link](https://junxnone.github.io/template_ht_markline/)
-- 2011/09~2003/06 t4 #life
-- 2011/07~ t4
-  - 2011-11-11 t5 
-  - 2013-04-20 t6
-  - 2014-08~2019-08 ts1
+
+## Format
+- 2012 粗体 *format* **format** _format_ __format__ 
+- 2013 删除线 ~format~ ~~format~~ [link](https://junxnone.github.io/template_ht_markline/)
+- 2014 链接 [link](https://junxnone.github.io/template_ht_markline/)
+- 2015 Mask 无作用？ `format`
+
+## Time Period
+
+- 2011~ 到现在
+- 2011-06-03~ 
+- 2012~2013 时间段
+- 2013/01~2013/06 Month Period
+- 2014/10/01~2016/06/01 Point2Point 
+- 2014/07~2018 包含时间点的时间段
+  - 2015 year
+  - 2016-11 month
+  - 2017-04-20 date 
+  - 2017-08~2018-08 month2month
+  - 2019-03-04~2020-10-01 date2date
 - 2019 ...
 - 2020 ....
 
-## Part 2
 
-- 2009 t1
-- 2011/09 t2
-- 2013/09~2018/06 t4
-- 2016/07~ t4
-  - 2016-11-11 t5
-  - 2018-04-20 t6
-- 2016-01-03~ t4
+## Tags
+- 2011~ Tags1 #jobs
+- 2011~2013 Default Tags #Mark
+- 2013~2015 Tags2 #life
 
-## Part 3
-- 2011~ w1 #jobs
-- 2011~2013 w2
-- 2013~2015 w3
-- 2015~2016 w4
-- 2016~ w5
